@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
+
+<br />
+
+[instagram]: https://instagram.com/_sansfi

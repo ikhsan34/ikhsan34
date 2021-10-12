@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 
 ### Contact Me:
-Instagram
-[<img align="left" alt="_sansfi | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
+[Instagram]
+[<img align="left" alt="_sansfi | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][Instagram]
 <br />
 
-Linkedin
-[<img align="left" alt="ikhsan34 | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[Linkedin]
+[<img align="left" alt="ikhsan34 | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][Linkedin]
 
 
 <br />
 
-[instagram]: https://instagram.com/_sansfi
-[linkedin]: https://www.linkedin.com/in/ikhsan-firdaus-509177148/
+[Instagram]: https://instagram.com/_sansfi
+[Linkedin]: https://www.linkedin.com/in/ikhsan-firdaus-509177148/
 

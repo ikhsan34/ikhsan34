@@ -12,5 +12,5 @@
 <br />
 
 [Instagram]: https://instagram.com/_sansfi
-[Linkedin]: https://www.linkedin.com/in/ikhsan-firdaus-509177148/
+[Linkedin]: https://www.linkedin.com/in/ikhsanf/
 
